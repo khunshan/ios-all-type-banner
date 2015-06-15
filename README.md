@@ -3,7 +3,10 @@ ios-all-type-banner
 
 A Mac OS style banner written in Objective C that respects iOS7 &amp; iOS8 for iOS in ALL orinetations by adding a UIView in UIWindow of UIApplication. It adds as another view top of ALL. Plus, uses blocks for dismiss and touch events. You like it?
 
-<iframe src="https://vid.me/e/joDB" width="270" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
+
+
+<video controls="controls" height="400" name="Banner" src="https://y2c3b4r3.ssl.hwcdn.net/videos/2627720.mp4?ttl=1434356167&signature=1cff8556df9c70e0a4a316ff6d400f57"></video>
+
 
 Import Banner.h file in your class.
 
