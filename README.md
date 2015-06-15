@@ -5,7 +5,7 @@ A Mac OS style banner written in Objective C that respects iOS7 &amp; iOS8 for i
 
 
 
-<video controls="controls" height="400" name="Banner" src="https://y2c3b4r3.ssl.hwcdn.net/videos/2627720.mp4?ttl=1434356167&signature=1cff8556df9c70e0a4a316ff6d400f57"></video>
+<img src="http://imgur.com/nh7AvVb" height="400"/>
 
 
 Import Banner.h file in your class.
